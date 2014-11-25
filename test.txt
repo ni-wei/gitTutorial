@@ -1,0 +1,5 @@
+#!/bin/sh
+
+test
+
+exec /share/vim/vim74/vim "$@"
